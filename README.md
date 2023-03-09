@@ -3,4 +3,4 @@
 
 Preview:
 
-![image](https://user-images.githubusercontent.com/15225177/223991311-20c34f08-512f-4aaf-bbea-d68ad4c966d3.png)
+![image](https://user-images.githubusercontent.com/15225177/223992151-39fe420e-ea41-4936-a8ed-84c11fc20538.png)
