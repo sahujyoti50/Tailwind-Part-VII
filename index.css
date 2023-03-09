@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+    @apply font-medium rounded-full text-sm px-7 py-4 text-center mr-2 mb-2 text-white border-2 shadow-lg shadow-gray-400
+}
+
+.textWhite {
+    @apply text-white
+}
